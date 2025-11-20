@@ -1,0 +1,8 @@
+pandas~=2.2.3
+torch~=2.6.0+cu124
+numpy~=2.2.4
+scikit-learn~=1.6.1
+tqdm~=4.67.1
+torchvision~=0.21.0+cu124
+matplotlib~=3.10.1
+argparse~=1.4.0
