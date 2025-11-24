@@ -16,7 +16,7 @@ sh ./HiP-IMTS/scripts/run_physionet.sh
 ```
 
 # Data
-The datasets can be obtained and put into ```dataset/``` folder
+The datasets can be obtained and put into ```data/``` folder
 
 - [<u> PhysioNet </u>](https://archive.physionet.org/challenge/2012)
 - [<u> USHCN </u>](https://www.osti.gov/biblio/1394920)
